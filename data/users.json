@@ -1,0 +1,14 @@
+[
+    {
+        "nama": "adit",
+        "email": "adit123@gmail.com",
+        "password": "$2y$10$nMdr.m9XatGjdTcEGwWVV.dShblQPx3p81atlJO.8T.1gKArqVu2G",
+        "role": "pelanggan"
+    },
+    {
+        "nama": "dimas",
+        "email": "dimas@gmail.com",
+        "password": "$2y$10$svSVPDKPsZfvS5pGA43z.OHHquWt5XJ.CWhbp0uEBmj4N3HTNoS8C",
+        "role": "admin"
+    }
+]
